@@ -46,7 +46,7 @@ Para la variable "PAY_AMT4" se implementaron los siguientes modelos.
 ---
 
 ## Conclusiones
-La variable 'default payment next month' se logro modelar con una valor de Accuracy cercano a 0.8 en los tres modelos de clasificación y  la red neuronal. El modelo con mejor rendimeinto fue la red neuronal obteniendo el puntaje máximo en las metricas sleccionadas.
+La variable 'default payment next month' se logro modelar con una valor de Accuracy cercano a 0.8 en los tres modelos de clasificación y  el modelo de  red neuronal.
 
 
 En la practica el modelo acierta en predecir si el cliente pagara su deuda crediticia el mes próximo 4 de cada 5 casos. Este nivel de precisión es muy bajo y de implementarse puede causar una gran número de falsos positivos. Implementar variables externas como la inflación, festividades y ciclos empresariales podría aumentar la precisión de las predicciones así como suministrar datos adicionales de los clientes.
