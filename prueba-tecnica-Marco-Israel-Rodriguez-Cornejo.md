@@ -4,7 +4,7 @@ paginate: true
 font-size:30px
 ---
 
-## Pureba técnica
+## [Prueba técnica](https://github.com/marcoisrael/DefaultCCC/blob/main/prueba-tecnica-Marco-Israel-Rodriguez-Cornejo.ipynb)
 ## Ciencia de Datos
 
 Marco Israel Rodríguez Cornejo
