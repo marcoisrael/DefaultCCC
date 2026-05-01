@@ -38,7 +38,7 @@ Para la variable "PAY_AMT4" se implementaron los siguientes modelos.
 |------|-----|----|
 |LinearRegression|0.1456|14756|
 |GradientBoostingRegressor|0.5507|10700|
-|ExtraTreesRegressor|0.6187|9857
+|ExtraTreesRegressor|0.6187|9857|
 |Neural Network|-0.1758|0.0189|
 
 </center>
